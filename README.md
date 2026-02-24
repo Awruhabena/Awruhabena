@@ -16,8 +16,8 @@ User Centered Design, Frontend Design, Graphic Design, and Backend Development.
 **🛠️ Tech Stack & Tools**
 
 
- - Development:HTML, CSS, C++
- - Design:Figma, Affinity Designer
+ - Development: HTML, CSS, C++
+ - Design: Figma, Affinity Designer
  
 **⚡ Fun Facts**
 
