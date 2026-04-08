@@ -54,9 +54,9 @@
 ### 📊 Player Statistics 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilybampoe&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awruhabena&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilybampoe&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b26" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awruhabena&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b26" alt="Top Languages" />
 </div>
 
 <br>
@@ -64,12 +64,12 @@
 ### 🔥 Combo Streak & EXP Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilybampoe&theme=tokyonight&hide_border=true&fire=ff9e64&ring=bb9af7&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awruhabena&theme=tokyonight&hide_border=true&fire=ff9e64&ring=bb9af7&background=1a1b26" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/lilybampoe">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilybampoe&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <a href="https://github.com/awruhabena">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=awruhabena&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 </div>
 
