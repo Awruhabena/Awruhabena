@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/44/22/de/4422dee3fdf6c039fbce38e9dcf46820.gif" alt="Anime Coding GIF" width="100%" style="border-radius: 15px;">
 
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=18&pause=1500&color=BB9AF7&center=true&vCenter=true&width=800&lines=PLAYER+1:+LILY+HAS+ENTERED+THE+CHAT...;Front-End+Developer+%26+UX%2FUI+Designer;Vibing+to+Neo-Soul+%26+Alt+R%26B+🎶;Farming+in+Palia+%26+Coding+🌾;Based+in+Accra,+Ghana+🇬🇭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=14&pause=1500&color=BB9AF7&center=true&vCenter=true&width=800&lines=PLAYER+1:+LILY+HAS+ENTERED+THE+CHAT...;Front-End+Developer+and+UX+UI+Designer;Vibing+to+Neo-Soul+and+Alt+R%26B;Farming+in+Palia+and+Coding;Based+in+Accra,+Ghana" alt="Typing Animation" />
   
-  <p><b>Passionate about the intersection of code and design, crafting clean, functional user interfaces.</b></p>
+  <p><b>Passionate about the intersection of code and design, crafting clean, functional user interfaces. 🎶 🌾 🇬🇭</b></p>
 </div>
 
 <br>
