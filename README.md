@@ -1,85 +1,163 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/44/22/de/4422dee3fdf6c039fbce38e9dcf46820.gif" alt="Anime Coding GIF" width="100%" style="border-radius: 15px;">
 
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=14&pause=1500&color=BB9AF7&center=true&vCenter=true&width=800&lines=PLAYER+1:+LILY+HAS+ENTERED+THE+CHAT...;Front-End+Developer+and+UX+UI+Designer;Vibing+to+Neo-Soul+and+Alt+R%26B;Farming+in+Palia+and+Coding;Based+in+Accra,+Ghana" alt="Typing Animation" />
-  
-  <p><b>Passionate about the intersection of code and design, crafting clean, functional user interfaces. 🎶 🌾 🇬🇭</b></p>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=180&section=header&text=LILY%20ABENA%20BAMPOE&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=FRONTEND%20DEV%20%7C%20UI%2FUX%20DESIGNER%20%7C%20ACCRA%2C%20GHANA&descAlignY=68&descSize=16&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=24&duration=3000&pause=800&color=E8151A&center=true&vCenter=true&multiline=true&width=620&height=80&lines=IT+STUDENT+%40+GCTU%2C+GHANA;FRONTEND+DEV+%26+UI%2FUX+DESIGNER;PAINTER+%7C+POET+%7C+MUSIC+LOVER)](https://git.io/typing-svg)
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Awruhabena&style=for-the-badge&color=E8151A&label=VISITORS&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/github/followers/Awruhabena?style=for-the-badge&color=E8151A&labelColor=1a1a1a&label=FOLLOWERS" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-E8151A?style=for-the-badge&labelColor=1a1a1a" />
+</p>
+
 </div>
 
-<br>
+---
+
+<!-- ABOUT ME SECTION -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" style="border-radius:12px"/>
+
+## ✦ &nbsp;`whoami`
+
+```yaml
+name: "Lily Abena Akyere Bampoe"
+alias: "Awruhabena"
+location: "Accra, Ghana 🇬🇭"
+university: "Ghana Communication Technology University (GCTU)"
+program: "Information Technology"
+```
+
+> *"At the intersection of code and design — crafting interfaces that speak."*
+
+🚀 &nbsp;I'm passionate about building clean, functional UIs and exploring the full spectrum of creative technology.  
+🎨 &nbsp;Arts lover: painting, poetry, theatre, and books fuel my creativity.  
+🎵 &nbsp;Soundtrack: **Hip-Hop · Neo-Soul · R&B · Afrobeats · Jazz**
+
+---
+
+<!-- CURRENTLY SECTION -->
+## 🔭 &nbsp;Currently Exploring
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Crossed Swords" width="40" height="40" />
+
+| 🌟 Focus Area | 🔧 Currently Learning |
+|:---:|:---:|
+| Frontend Development | Linux 🐧 + Python 🐍 |
+| UI/UX & User-Centered Design | Figma → Full UX Research |
+| Graphic & Brand Design | Creative Direction |
+| Backend Development | Expanding my stack |
+
 </div>
 
-### 📜 Character Stats & Current Quests
+---
 
-| 🎮 Attribute | Details |
-| :--- | :--- |
-| 🛡️ **Class** | Front-End Developer & UI/UX Designer |
-| 🗺️ **Currently Exploring** | User Centered Design, Frontend Design, Graphic Design, and Backend Development |
-| ⚔️ **Currently Grinding** | LINUX, Python, comprehensive UX/UI design, brand design, and creative direction |
-| ⚡ **Special Ability** | Immersion in the arts (painting, poetry, theatre, books) |
-
-<br>
+<!-- TECH STACK -->
+## 🛠️ &nbsp;Tech Stack & Weapons
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Backpack" width="40" height="40" />
+
+### ⚔️ Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E8151A?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/CSS3-2255AA?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/C++-F5C800?style=for-the-badge&logo=cplusplus&logoColor=1a1a1a&labelColor=1a1a1a"/>
+</p>
+
+### 🎨 Design Arsenal
+<p>
+  <img src="https://img.shields.io/badge/Figma-E8151A?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Affinity_Designer-F5C800?style=for-the-badge&logo=affinitydesigner&logoColor=1a1a1a&labelColor=1a1a1a"/>
+</p>
+
+### 🔄 Training Arc
+<p>
+  <img src="https://img.shields.io/badge/Python-2255AA?style=for-the-badge&logo=python&logoColor=F5C800&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=F5C800&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/UX_Research-446688?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a"/>
+</p>
+
 </div>
 
-### 🎒 Inventory (Tech Stack & Tools)
+---
+
+<!-- GITHUB STATS SECTION -->
+## 📊 &nbsp;Battle Stats
 
 <div align="center">
-  <h4>Frontend Development</h4>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <h4>Backend & Systems</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://github-readme-stats.vercel.app/api?username=Awruhabena&show_icons=true&theme=default&title_color=E8151A&icon_color=E8151A&text_color=1a1a1a&bg_color=f5f0e8&border_color=1a1a1a&border_radius=0&hide_border=false" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awruhabena&layout=compact&title_color=E8151A&text_color=1a1a1a&bg_color=f5f0e8&border_color=1a1a1a&border_radius=0&langs_count=6" height="170"/>
 
-  <h4>Design Weapons</h4>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Affinity_Designer-1B1C20?style=for-the-badge&logo=affinity&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Controller" width="40" height="40" />
-</div>
-
-### 📊 Player Statistics 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awruhabena&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awruhabena&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b26" alt="Top Languages" />
-</div>
-
-<br>
-
-### 🔥 Combo Streak & EXP Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awruhabena&theme=tokyonight&hide_border=true&fire=ff9e64&ring=bb9af7&background=1a1b26" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/awruhabena">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=awruhabena&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=f7768e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awruhabena&theme=default&ring=E8151A&fire=E8151A&currStreakLabel=1a1a1a&background=f5f0e8&border=1a1a1a&stroke=E8151A&sideLabels=1a1a1a&dates=555555" />
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 🌸 &nbsp;Contribution Saga
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awruhabena&bg_color=f5f0e8&color=1a1a1a&line=E8151A&point=F5C800&area=true&area_color=E8151A&hide_border=false&border_color=1a1a1a&radius=0" />
+</div>
+
+---
+
+<!-- ACHIEVEMENTS / GAMIFICATION -->
+## 🏆 &nbsp;Achievements Unlocked
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Awruhabena&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories" />
+
+</div>
+
+---
+
+<!-- FUN FACTS SECTION -->
+## ⚡ &nbsp;Side Quests (Fun Facts)
+
+<div align="center">
+
+```
+🖌️  Painting  ──────────────────────── [MAX LEVEL]
+📖  Reading   ──────────────────────── [ACTIVE]
+🎭  Theatre   ──────────────────────── [ACTIVE]
+✍️  Poetry    ──────────────────────── [IN PROGRESS]
+🎵  Music     ──────────────────────── [DAILY BUFF]
+```
+
+> *Hip-Hop · Neo-Soul · R&B · Afrobeats · Jazz*  
+> *"Music is the UI/UX of the soul."*
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+## 💌 &nbsp;Connect With Me
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/Awruhabena">
+    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🌐 Multiplayer Lobby (Connect With Me)</h3>
-  <a href="https://linkedin.com/in/lily-bampoe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-E8151A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p><em>📍 Based in Accra, Ghana · Open to collabs, creative projects & frontend opportunities!</em></p>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=60&section=footer&text=■%20CRAFTED%20BY%20LILY%20ABENA%20BAMPOE%20·%20WHERE%20CODE%20MEETS%20ART%20■&fontSize=14&fontColor=E8151A&animation=fadeIn" />
